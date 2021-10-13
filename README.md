@@ -1,3 +1,3 @@
 # AI-ML-task
 
-Solution of the recruitment task in the main.ipynb file 
+Solution of the binary classification problem
